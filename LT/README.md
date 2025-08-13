@@ -15,8 +15,7 @@ filling the need for such a program.
 
 > LT was the best candidate for
 development as a pedagogical model because 1) it is based in the
-readily understood context of theorem proving in sentential calculus;
-2) literature on theorem proving is readily available; and 3) the
+readily understood context of theorem proving in sentential calculus; 2) literature on theorem proving is readily available; and 3) the
 original LT, written in an early version of IPL by Newell, Shaw, and
 Simon, established the field of heuristic programming. Because it is a
 valuable example for students to examine and modify, LT has survived
