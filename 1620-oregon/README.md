@@ -22,5 +22,9 @@ A red blotch on page 65 obscures one character, believed to be a `2`.
 
 ## Other resources
 
+- [IPL-V - University of Oregon 1620 IPL-V Documentation](https://purl.stanford.edu/vy432ph8012)
+- [IPL-V - Modification Letter Number 3](https://purl.stanford.edu/bk072pk3345)
+- [IPL-V - Modification Letter Number 4](https://purl.stanford.edu/qg281jn8061)
+- [IPL-V - Information Sheet for University of Oregon 1620 IPL-V System](https://purl.stanford.edu/wt322rf7580)
 - [1620 Users Group Western Region Minutes](https://bitsavers.org/pdf/ibm/common/1620_Users_Group_Western_Region_196406.pdf),
   p 147, *1620 IPL-V A Non-numeric Problem Solving Tool* by Wendell Terry Beyer.
